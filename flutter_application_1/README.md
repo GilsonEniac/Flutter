@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+Projeto de estudo para aprendizado da linguagem Flutter.
 
 ## Getting Started
 
